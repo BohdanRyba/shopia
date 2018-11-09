@@ -1,0 +1,17 @@
+Font: Lato
+Size: 11px
+
+#### Top Bar ###
+
+Width: 100%
+Height: 38px
+
+Margins
+    left:80px;
+    right:80px;
+
+Between left elements:
+    margin: 20px;
+
+Between right elements:
+    left: 34px;
